@@ -1,6 +1,10 @@
 interface Colors {
   primary: string
+  lightPrimary: string
   secondary: string
+  lightSecondary: string
+  alternative: string
+  white: string
 }
 
 interface Fonts {
